@@ -1,0 +1,32 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider = "postgresql"
+  // A URL foi removida daqui, ela vai para o prisma.config.ts
+}
+
+model Teste {
+  id        Int      @id @default(autoincrement())
+  nome      String
+  createdAt DateTime @default(now())
+}
+
+enum StatusProtocolo {
+  ABERTO
+  EM_ANALISE
+  CONCLUIDO
+}
+
+model Protocolo {
+  id        String   @id @default(uuid())
+  numero    String   @unique
+  assunto   String
+  descricao String
+  status    StatusProtocolo @default(ABERTO)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
