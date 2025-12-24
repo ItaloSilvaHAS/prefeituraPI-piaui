@@ -1,0 +1,17 @@
+Decisões Técnicas: 
+
+1.1 Definir stack final:
+
+Frontend: React + Vite + Tailwind
+
+Backend: Node.js + NestJS
+
+Banco: PostgreSQL
+
+Auth: JWT
+
+ORM: Prisma
+
+Infra: Docker
+
+Essa sera a base do projeto. 

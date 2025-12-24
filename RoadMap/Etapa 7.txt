@@ -1,0 +1,9 @@
+Segurança & Acabamento:
+
+1 - Proteção de rotas
+
+2 - Validação de dados
+
+3 - UX limpa
+
+4 - Mensagens claras

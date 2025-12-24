@@ -1,0 +1,27 @@
+Setup do Projeto:
+
+Objetivo: projeto rodando limpo.
+
+Backend:
+
+    1. Criar projeto NestJS
+
+    2. Configurar Prisma + PostgreSQL
+
+    3. Criar autenticação JWT
+
+    4. Seed inicial (secretarias, status)
+
+
+Frontend:
+
+    1. Criar projeto Vite
+
+    2. Configurar Tailwind
+
+    3. Estrutura base de páginas
+
+
+Resultado:
+
+App sobe localmente sem erros.

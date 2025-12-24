@@ -1,0 +1,22 @@
+Fluxo e Telas (UX simples):
+
+Objetivo: saber exatamente o que vai existir.
+
+
+Telas obrigatórias:
+
+1 - Home pública
+
+2 - Abrir protocolo
+
+3 - Consultar protocolo
+
+4 - Login
+
+5 - Painel do servidor
+
+6 - Dashboard do gestor
+
+//
+
+Desenhar fluxo

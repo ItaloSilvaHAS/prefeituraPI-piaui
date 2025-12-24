@@ -1,0 +1,27 @@
+Modelagem do Banco de Dados
+
+Objetivo: não escrever código sem saber onde os dados vão.
+
+Entidades principais:
+
+1. - Usuário
+
+2. - Secretaria
+
+3. - Protocolo
+
+4. - Categoria
+
+5. - Status
+
+6. - Histórico
+
+7. - Anexos
+
+-------------
+
+Espero: 
+
+Diagrama ER
+
+Script inicial SQL / Prisma

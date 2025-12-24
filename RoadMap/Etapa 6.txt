@@ -1,0 +1,7 @@
+Dashboard & Relatórios:
+
+1. Gráficos simples
+
+2. Contadores
+
+3. Filtros por secretaria e status

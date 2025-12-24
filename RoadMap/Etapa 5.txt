@@ -1,0 +1,20 @@
+MVP:
+
+Objetivo: ter algo funcional rápido.
+
+Ordem correta:
+
+    1. Cadastro/Login (servidor)
+
+    2. Criar protocolo (público)
+
+    3. Listar protocolos (admin)
+
+    4. Alterar status
+
+    5. Histórico automático
+
+
+Critério de sucesso:
+
+Cidadão abre protocolo → servidor responde → histórico salva.
